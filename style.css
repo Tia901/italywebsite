@@ -1,0 +1,161 @@
+nav ul{
+    background-color:rgb(255, 255, 236);
+    
+    width: 100%;
+    height:10%;
+    border:6px double rgb(125, 0, 0);
+    
+    
+}
+nav ul li{
+    display:inline-block;
+    padding:20px;
+    
+    
+}
+a{
+    color:rgb(108, 1, 1);
+    font-family:cursive;
+    font-size:17px;
+    
+}
+nav ul li a:hover{
+    color:bisque;
+    background-color:rgb(85, 1, 1);
+}
+#vid{
+    margin-top:200px;
+}
+body{
+    background-color: blanchedalmond;
+}
+#vid{
+    width:400px;
+    height:250px;
+    margin-top:40px;
+    margin-left:450px;
+    
+}
+#preloader{
+    z-index:1;
+    background:blanchedalmond url("1.gif") no-repeat center center;
+    width:100%;
+    height:100%;
+    position:fixed;
+}
+#home{
+    background:linear-gradient(rgba(0,0,0,0.3)),url(background.jpeg) ;
+    background-size: cover;
+    background-position: center;   
+
+}
+.abtus{
+    color:white;
+}
+
+#htwohome{
+    margin-left: 450px;
+    margin-top: 40px;
+    color:white;
+}
+#sng1{
+    
+    margin-top: 10px;
+    width:250px; 
+    
+}
+.gallery{
+    display: inline-block;
+    padding:150px;
+    margin: -100px;
+    
+}
+.gallery2{
+    display: inline-block;
+    padding:150px;
+    margin: -100px;
+    
+}
+#s{
+    padding:3px;
+       
+}
+.description{
+    background-color: rgb(174, 19, 19);
+    color:antiquewhite;
+    width:150px;
+    height:20px;
+    border: 1px solid;
+    padding:4px;
+}
+#bodyplaces{
+    background:linear-gradient(rgba(0,0,0,0.3)) ,url(bg2places.jpeg);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+
+.pmusic{
+    color:green;
+}
+
+#honeplace{
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#htwoplace{
+    margin-top: 30px;
+    margin-left:450px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#musicbody{
+    background: url(musicbackg.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.places{
+
+    display: inline-block;
+    padding:150px;
+    margin: -100px;
+    
+    
+    
+}
+.todo{
+    color:white;
+    font-family: sans-serif;
+}
+
+.pl{
+    border:5px solid white;
+    
+}
+li{
+    color:white;
+    font-size: medium;
+    
+}
+h1{
+    color:white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
+}
+#vid{
+    margin-left: 2px;
+    border:2px solid white;
+}
+#aboutus{
+    background:linear-gradient(rgba(0,0,0,0.3)) ,url(bg2places.jpeg);
+    background-size: cover;
+    
+}
